@@ -21,6 +21,7 @@ Air-India-Clone/
 │   ├── Logo.svg             # Air India logo  
 │   └── indiabg.webp         # Hero background image  
 │
+├── LICENSE
 └── README.md                # Project documentation  
 ```
 
